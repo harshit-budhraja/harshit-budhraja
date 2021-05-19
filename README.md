@@ -1,4 +1,4 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1500425901/2646/allo-happy.gif?1500425901" width="28"/> Hey, welcome to my handle.</h1>
+<h1>Hey there 👋🏻 Welcome to my handle 🙇🏻‍♂️</h1>
 
 
 <p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/postmanlabs">Postman 🚀</a> based in Navi Mumbai, India.
@@ -26,7 +26,9 @@
     <img alt="Jenkins" src="https://img.shields.io/badge/-Jenkins-13aa52?style=flat-square&logo=jenkins&logoColor=white&color=black" />
     <img alt="Helm" src="https://img.shields.io/badge/-Helm-45b8d8?style=flat-square&logo=helm&logoColor=white" />
 </p>
-
-<h3>You can find me on</h3>
-<p><a href="https://github.com/harshit-budhraja" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/harshitbudhraja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+<br/>
+<h3>Don't forget to connect follow me on</h3>
+<br/>
+<a href="https://twitter.com/harshitbudhraja" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/harshitbudhraja?style=social"></a>
+<br/>
+<a href="https://www.linkedin.com/in/harshitbudhraja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
