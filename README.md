@@ -27,7 +27,7 @@
     <img alt="Helm" src="https://img.shields.io/badge/-Helm-45b8d8?style=flat-square&logo=helm&logoColor=white" />
 </p>
 <br/>
-<h3>Don't forget to connect follow me on</h3>
+<h3>Don't forget to connect and follow me on</h3>
 <br/>
 <a href="https://twitter.com/harshitbudhraja" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/harshitbudhraja?style=social"></a>
 <br/>
