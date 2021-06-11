@@ -34,10 +34,6 @@
 <a href="https://www.linkedin.com/in/harshitbudhraja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
 <br/><br/>
 <h3>Latest Blog Posts ✍🏻</h3>
+
 <!-- BLOG-POST-LIST:START -->
-- [Port a website to the Dark Web in under 2 minutes](https://harshitbudhraja.com/port-a-website-to-the-dark-web-in-under-2-minutes)
-- [Proxying to your app running on custom port in NGINX](https://harshitbudhraja.com/proxy-pass-nginx)
-- [How BigBasket stepped into Open Source](https://harshitbudhraja.com/bigbaskets-first-step-towards-open-source)
-- [A tale of strip-typecasting in MySQL](https://harshitbudhraja.com/mysqls-weird-way-of-strip-typecasting-strings-to-integers)
-- [Making apt decisions while you code to save money👨‍💻👩‍💻](https://harshitbudhraja.com/making-apt-decisions-while-you-code-to-save-money-4bcf1c89dc9c)
 <!-- BLOG-POST-LIST:END -->
