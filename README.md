@@ -27,8 +27,12 @@
     <img alt="Helm" src="https://img.shields.io/badge/-Helm-45b8d8?style=flat-square&logo=helm&logoColor=white" />
 </p>
 <br/>
-<h3>Don't forget to connect and follow me on</h3>
-<br/>
+<h3>Don't forget to follow me on Twitter</h3>
 <a href="https://twitter.com/harshitbudhraja" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/harshitbudhraja?style=social"></a>
-<br/>
+<br/><br/>
+<h3>Connect with me on LinkedIn</h3>
 <a href="https://www.linkedin.com/in/harshitbudhraja/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white" /></a>
+<br/><br/>
+<h3>Latest Blog Posts ✍🏻</h3>
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
