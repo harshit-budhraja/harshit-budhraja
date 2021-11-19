@@ -1,7 +1,7 @@
 <h1>Hey there 👋🏻 Welcome to my handle 🙇🏻‍♂️</h1>
 
 
-<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/postmanlabs">Postman 🚀</a> based in Navi Mumbai, India.
+<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/postmanlabs">Postman</a> based in Navi Mumbai, India.
 
 <p>I haven't really given a thought about what else to write here, but I hope I'll come up with something interesting soon. Meanwhile you can check out the -</p>
 <h3>Tech I Work On</h3>
