@@ -36,9 +36,9 @@
 <h3>Latest Blog Posts ✍🏻</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Reminders on Slack messages &lpar;and even snoozing them!!&rpar;](https://harshitbudhraja.com/reminders-on-slack-messages-and-even-snoozing-them)
+- [I evolved from using an Excel Workbook to using 1Password &lpar;for FREE&rpar; to store my passwords](https://harshitbudhraja.com/using-1password-for-free-to-store-my-passwords)
 - [How to make your Hashnode blog load faster?](https://harshitbudhraja.com/how-to-make-your-hashnode-blog-load-faster)
 - [Port a website to the Dark Web in under 2 minutes](https://harshitbudhraja.com/port-a-website-to-the-dark-web-in-under-2-minutes)
 - [Proxying to your app running on custom port in NGINX](https://harshitbudhraja.com/proxy-pass-nginx)
-- [How BigBasket stepped into Open Source](https://harshitbudhraja.com/bigbaskets-first-step-towards-open-source)
-- [A tale of strip-typecasting in MySQL](https://harshitbudhraja.com/mysqls-weird-way-of-strip-typecasting-strings-to-integers)
 <!-- BLOG-POST-LIST:END -->
