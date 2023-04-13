@@ -36,9 +36,9 @@
 <h3>Latest Blog Posts ✍🏻</h3>
 
 <!-- BLOG-POST-LIST:START -->
+- [Types of APIs: REST v/s SOAP](https://harshitbudhraja.com/types-of-apis-rest-vs-soap)
 - [Generating vanity .onion addresses for Tor v3 &lpar;ED25519&rpar; hidden services](https://harshitbudhraja.com/generating-vanity-onion-addresses-for-tor-v3-hidden-services)
 - [What is an API?](https://harshitbudhraja.com/what-is-an-api)
 - [What Are the Top 10 Skills Needed for a Product Management Role? &lpar;Written by Notion AI&rpar;](https://harshitbudhraja.com/what-are-the-top-10-skills-needed-for-a-product-management-role-written-by-notion-ai)
 - [Reminders on Slack messages &lpar;and even snoozing them!!&rpar;](https://harshitbudhraja.com/reminders-on-slack-messages-and-even-snoozing-them)
-- [I evolved from using an Excel Workbook to using 1Password &lpar;for FREE&rpar; to store my passwords](https://harshitbudhraja.com/using-1password-for-free-to-store-my-passwords)
 <!-- BLOG-POST-LIST:END -->
