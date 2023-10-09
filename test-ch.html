@@ -1,15 +1,17 @@
 <html>
 
 <head>
-  <meta http-equiv="accept-ch" content="dpr, width">
-  <meta http-equiv="delegate-ch" content="dpr https://ik.imagekit.io; width https://ik.imagekit.io;">
+  <meta http-equiv="accept-ch" content="dpr, width, save-data, sec-ch-width, sec-ch-dpr, sec-ch-viewport-width">
+  <meta http-equiv="delegate-ch"
+    content="dpr https://ik.imagekit.io; width https://ik.imagekit.io; save-data https://ik.imagekit.io; sec-ch-dpr https://ik.imagekit.io; sec-ch-width https://ik.imagekit.io; sec-ch-viewport-width https://ik.imagekit.io;">
   <meta charset="UTF-8" />
   <title>Test CH</title>
 </head>
 
 <body>
   <div id="app"></div>
-  <img src="https://ik.imagekit.io/oq1pyotaq/pikachu.png?tr=w-auto,dpr-auto" alt="Pikachu from ImageKit Prod" />
+  <img src="https://ik.imagekit.io/oq1pyotaq/pikachu.png?tr=w-auto,dpr-auto" alt="Pikachu from ImageKit Prod"
+    sizes="(max-height: 1024px) 1000px, (max-height: 500px) 500px, (max-height: 250px) 250px" />
 
   <script>
     document.getElementById("app").innerHTML = `
