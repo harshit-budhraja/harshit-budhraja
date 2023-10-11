@@ -3,21 +3,24 @@
 <head>
   <meta http-equiv="accept-ch" content="dpr, width, save-data, sec-ch-width, sec-ch-dpr, sec-ch-viewport-width">
   <meta http-equiv="delegate-ch"
-    content="dpr https://ik.imagekit.io; width https://ik.imagekit.io; save-data https://ik.imagekit.io; sec-ch-dpr https://ik.imagekit.io; sec-ch-width https://ik.imagekit.io; sec-ch-viewport-width https://ik.imagekit.io;">
+    content="dpr https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com; width https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com; save-data https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com; sec-ch-dpr https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com; sec-ch-width https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com; sec-ch-viewport-width https://ik.imagekit.io https://stage-ik.imagekit.io https://res.cloudinary.com;">
   <meta charset="UTF-8" />
   <title>Test CH</title>
 </head>
 
 <body>
-  <div id="app"></div>
-  <img src="https://ik.imagekit.io/oq1pyotaq/pikachu.png?tr=w-auto,dpr-auto" alt="Pikachu from ImageKit Prod"
+  <h1>ImageKit (Stage)</h1>
+  <img id="image-stage-ik" src="https://stage-ik.imagekit.io/cr29v1rbc/tr:w-auto,dpr-auto/pikachu.png"
+    alt="Pikachu from ImageKit - stage"
     sizes="(max-height: 1024px) 1000px, (max-height: 500px) 500px, (max-height: 250px) 250px" />
-
-  <script>
-    document.getElementById("app").innerHTML = `
-      <h1>Testing CH headers for ImageKit.io</h1>
-    `;
-  </script>
+  <h1>ImageKit (Prod)</h1>
+  <img id="image-ik" src="https://ik.imagekit.io/oq1pyotaq/tr:w-auto,dpr-auto/pikachu.png" alt="Pikachu from ImageKit"
+    sizes="(max-height: 1024px) 1000px, (max-height: 500px) 500px, (max-height: 250px) 250px" />
+  <h1>Cloudinary</h1>
+  <img id="image-cloudinary"
+    src="https://res.cloudinary.com/dwok76cl6/image/upload/w_auto,dpr_auto/v1691473438/pikachu_vnnp18.png"
+    alt="Pikachu from Cloudinary"
+    sizes="(max-height: 1024px) 1000px, (max-height: 500px) 500px, (max-height: 250px) 250px" />
 </body>
 
 </html>
