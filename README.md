@@ -1,7 +1,7 @@
 <h1>Hey there 👋🏻 Welcome to my handle 🙇🏻‍♂️</h1>
 
 
-<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/postmanlabs">Postman</a> based in Navi Mumbai, India.
+<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/imagekit-developer">ImageKit.io</a> based in Navi Mumbai, India. In the past, I've engineered solutions & inspired minds at <a href="https://github.com/postmanlabs">Postman</a> and <a href="https://github.com/bigbasket">BigBasket</a>.
 
 <p>I haven't really given a thought about what else to write here, but I hope I'll come up with something interesting soon. Meanwhile you can check out the -</p>
 <h3>Tech I Work On</h3>
@@ -27,7 +27,7 @@
     <img alt="Helm" src="https://img.shields.io/badge/-Helm-45b8d8?style=flat-square&logo=helm&logoColor=white" />
 </p>
 <br/>
-<h3>Don't forget to follow me on Twitter</h3>
+<h3>Don't forget to follow me on X (previously, Twitter)</h3>
 <a href="https://twitter.com/harshitbudhraja" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/harshitbudhraja?style=social"></a>
 <br/><br/>
 <h3>Connect with me on LinkedIn</h3>
