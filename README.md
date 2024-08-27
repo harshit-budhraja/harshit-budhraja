@@ -1,23 +1,24 @@
 <h1>Hey there 👋🏻 Welcome to my handle 🙇🏻‍♂️</h1>
 
 
-<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/imagekit-developer">ImageKit.io</a> based in Navi Mumbai, India. In the past, I've engineered solutions & inspired minds at <a href="https://github.com/postmanlabs">Postman</a> and <a href="https://github.com/bigbasket">BigBasket</a>.
+<p>I'm Harshit, a <b>Software Engineer</b> @ <a href="https://github.com/imagekit-developer">ImageKit.io</a> based in Bengaluru, India. In the past, I've engineered solutions & inspired minds at <a href="https://github.com/postmanlabs">Postman</a> and <a href="https://github.com/bigbasket">BigBasket</a>.
 
 <p>I haven't really given a thought about what else to write here, but I hope I'll come up with something interesting soon. Meanwhile you can check out the -</p>
 <h3>Tech I Work On</h3>
 <p>
+    <img alt="Typescript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square" />
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+    <img alt="Docker" src="https://img.shields.io/badge/-Docker-43853d?style=flat-square&logo=Docker&logoColor=white&color=blue" />
+    <img alt="aws" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=amazon-aws&logoColor=white&color=orange" />
     <img alt="kubernetes" src="https://img.shields.io/badge/-Kubernetes-43853d?style=flat-square&logo=kubernetes&logoColor=white&color=blue" />
     <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
     <img alt="redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-    <img alt="Docker" src="https://img.shields.io/badge/-Docker-43853d?style=flat-square&logo=Docker&logoColor=white&color=blue" />
-    <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
     <img alt="mysql" src="https://img.shields.io/badge/-MySQL-43853d?style=flat-square&logo=mysql&logoColor=white&color=orange" />
     <img alt="aerospike" src="https://img.shields.io/badge/-Aerospike-43853d?style=flat-square&logoColor=white&color=red" />
-    <img alt="aws" src="https://img.shields.io/badge/-AWS-43853d?style=flat-square&logo=amazon-aws&logoColor=white&color=orange" />
     <img alt="elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-13aa52?style=flat-square&logo=elasticsearch&logoColor=white" />
     <img alt="Kafka" src="https://img.shields.io/badge/-Apache Kafka-13aa52?style=flat-square&logo=apache-kafka&logoColor=white&color=black" />
     <img alt="python" src="https://img.shields.io/badge/-Python-F05032?style=flat-square&logo=python&logoColor=white" />
